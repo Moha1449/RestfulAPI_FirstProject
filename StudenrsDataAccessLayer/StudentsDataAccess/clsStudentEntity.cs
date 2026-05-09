@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace StudentsDataAccessLayer.StudentsDataAccess
+{
+    public class clsStudentEntity
+    {
+        public int ID { get; set; }
+
+        public string Name { get; set; }
+
+        public float Grade { get; set; }
+    }
+}

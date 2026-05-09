@@ -1,0 +1,12 @@
+C:\Users\IP3 SLIM\source\repos\StudenrsDataAccessLayer\bin\Debug\net8.0\StudentsDataAccessLayer.deps.json
+C:\Users\IP3 SLIM\source\repos\StudenrsDataAccessLayer\bin\Debug\net8.0\StudentsDataAccessLayer.dll
+C:\Users\IP3 SLIM\source\repos\StudenrsDataAccessLayer\bin\Debug\net8.0\StudentsDataAccessLayer.pdb
+C:\Users\IP3 SLIM\source\repos\StudenrsDataAccessLayer\obj\Debug\net8.0\StudentsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\IP3 SLIM\source\repos\StudenrsDataAccessLayer\obj\Debug\net8.0\StudentsDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IP3 SLIM\source\repos\StudenrsDataAccessLayer\obj\Debug\net8.0\StudentsDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\IP3 SLIM\source\repos\StudenrsDataAccessLayer\obj\Debug\net8.0\StudentsDataAccessLayer.AssemblyInfo.cs
+C:\Users\IP3 SLIM\source\repos\StudenrsDataAccessLayer\obj\Debug\net8.0\StudentsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\IP3 SLIM\source\repos\StudenrsDataAccessLayer\obj\Debug\net8.0\StudentsDataAccessLayer.dll
+C:\Users\IP3 SLIM\source\repos\StudenrsDataAccessLayer\obj\Debug\net8.0\refint\StudentsDataAccessLayer.dll
+C:\Users\IP3 SLIM\source\repos\StudenrsDataAccessLayer\obj\Debug\net8.0\StudentsDataAccessLayer.pdb
+C:\Users\IP3 SLIM\source\repos\StudenrsDataAccessLayer\obj\Debug\net8.0\ref\StudentsDataAccessLayer.dll
