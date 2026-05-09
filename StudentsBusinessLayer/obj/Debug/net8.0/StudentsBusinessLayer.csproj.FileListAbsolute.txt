@@ -1,0 +1,15 @@
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\bin\Debug\net8.0\StudentsBusinessLayer.deps.json
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\bin\Debug\net8.0\StudentsBusinessLayer.dll
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\bin\Debug\net8.0\StudentsBusinessLayer.pdb
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\bin\Debug\net8.0\StudentsDataAccessLayer.dll
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\bin\Debug\net8.0\StudentsDataAccessLayer.pdb
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\obj\Debug\net8.0\StudentsBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\obj\Debug\net8.0\StudentsBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\obj\Debug\net8.0\StudentsBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\obj\Debug\net8.0\StudentsBusinessLayer.AssemblyInfo.cs
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\obj\Debug\net8.0\StudentsBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\obj\Debug\net8.0\Students.161EAC56.Up2Date
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\obj\Debug\net8.0\StudentsBusinessLayer.dll
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\obj\Debug\net8.0\refint\StudentsBusinessLayer.dll
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\obj\Debug\net8.0\StudentsBusinessLayer.pdb
+C:\Users\IP3 SLIM\source\repos\StudentsBusinessLayer\obj\Debug\net8.0\ref\StudentsBusinessLayer.dll
